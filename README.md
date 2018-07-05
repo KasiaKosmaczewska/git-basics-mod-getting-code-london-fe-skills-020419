@@ -12,6 +12,8 @@ In this lesson we'll learn how to acquire others' repositories. In a subsequent
 lesson we'll cover how to push our locally-created repositories onto the
 internet. Let's learn to acquire others' code!
 
+![GitHub Octocat Icon](https://flatiron-client-assets.s3.amazonaws.com/assets/github-learn-button.png)
+
 ## Objectives
 
 1. Define _remote_
